@@ -1,3 +1,3 @@
 # Rock Paper Scissors Game
 
-Technologies Used - HTML, CSS, JavaScript
+## Technologies Used - HTML, CSS, JavaScript
