@@ -2,7 +2,7 @@
 
 Technologies Used - HTML, CSS, JavaScript
 
-## How it works?
+## How does it work?
 
 ### 🔵 Before Make a Move
 <img src="/images/SS1.png" width=500px height=250px>
